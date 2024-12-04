@@ -70,6 +70,13 @@ def print_stack(st):
 # print_stack(st)
 # print('------')
 
+
+
+
+
+
+
+#Task -01 Diamond Count
 def diamond_count(stack,string):
   #TO DO
   diamond_count = 0
