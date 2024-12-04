@@ -80,7 +80,7 @@ class WRM:
     #To Do
         if self.dh.next == self.dh:
             return "No patients to reverse."
-        current = self.dh.next
+        current = self.dh.next 
         prev_patient = self.dh
         while current != self.dh:
             next_patient = current.next
