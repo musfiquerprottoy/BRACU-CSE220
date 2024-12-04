@@ -94,6 +94,7 @@ class WRM:
 
 
 
+
 print("**Welcome to Waiting Room Management System**")
 print('\nChoose an option: (1,2,3... pick a number)\n')
 print('1 - Register a patient.')
